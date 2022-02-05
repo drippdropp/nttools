@@ -1,0 +1,4 @@
+name = "NTTools"
+uuid = "c744fc6a-13fa-4036-a5f3-3c65c809c85f"
+authors = ["Daniel Marvin"]
+version = "0.1.0"
